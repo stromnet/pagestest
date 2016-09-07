@@ -1,4 +1,5 @@
 ---
 title: hello title
+layout: default
 ---
-# Hello world.
+# Hello world, default layout specified
